@@ -15,7 +15,7 @@ Este projeto é um trabalho apresentado como exigência para a aprovação na ma
 - `devolverItem`: Funcionalidade ligada a `emprestarItens` que exibe e devolve os itens emprestados por certo usuário.
 
 # 🛠️ Abrir e rodar o projeto
-Apos baixar o projeto abra o Visual Estudio Code (VS. Code) e cliuqe em:
+Apos baixar o projeto abra o Visual Estudio Code (VS. Code) e clique em:
 - `File`(em prtuguês "Arquivo")
 - `Open Floder` (em portugês "Abrir Pasta") clicando na pasta do aquivo.
 - `...` e clique em `Terminal`
