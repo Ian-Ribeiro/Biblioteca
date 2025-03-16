@@ -1,5 +1,5 @@
 
-<div align="center"><img src = "https://github.com/user-attachments/assets/05da2345-ab34-4bf5-a819-db76cfea9b08"></div>
+<div align="center"><img src ="https://github.com/user-attachments/assets/05da2345-ab34-4bf5-a819-db76cfea9b08"></div>
 <h1 align="center"> Biblioteca </h1>
 
 Este projeto é um trabalho apresentado como exigência para a aprovação na matéria Programação Orientada a Objetos aplicado no Instituto Federal de Educação, Ciências e Tecnologias do Piauí (IFPI), nele nos criamos uma biblioteca usando a linguagem Typescript.
